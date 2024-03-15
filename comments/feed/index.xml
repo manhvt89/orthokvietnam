@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Bình luận cho OrthoK Việt Nam	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://orthokvietnam.vn/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://orthokvietnam.vn/</link>
 	<description>Chăm sóc đôi mắt bạn</description>
 	<lastBuildDate>Wed, 01 Dec 2021 11:26:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Phản hồi cho Travel Bag bởi admin		</title>
-		<link>/?p=1681%2F#comment-16</link>
+		<link>https://orthokvietnam.vn/?p=1681%2F#comment-16</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 01 Dec 2021 11:26:07 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		Phản hồi cho Travel Bag bởi admin		</title>
-		<link>/?p=1681%2F#comment-15</link>
+		<link>https://orthokvietnam.vn/?p=1681%2F#comment-15</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 01 Nov 2021 09:54:47 +0000</pubDate>
@@ -48,7 +48,7 @@
 		<item>
 		<title>
 		Phản hồi cho Winter Jacket bởi admin		</title>
-		<link>/?p=1662%2F#comment-14</link>
+		<link>https://orthokvietnam.vn/?p=1662%2F#comment-14</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 01 Nov 2021 09:22:39 +0000</pubDate>
@@ -62,7 +62,7 @@
 		<item>
 		<title>
 		Phản hồi cho Sports Shoes bởi admin		</title>
-		<link>/?p=1673%2F#comment-13</link>
+		<link>https://orthokvietnam.vn/?p=1673%2F#comment-13</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 01 Nov 2021 09:22:34 +0000</pubDate>
@@ -76,7 +76,7 @@
 		<item>
 		<title>
 		Phản hồi cho Smart Watch bởi admin		</title>
-		<link>/?p=1676%2F#comment-12</link>
+		<link>https://orthokvietnam.vn/?p=1676%2F#comment-12</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 01 Nov 2021 08:55:24 +0000</pubDate>
@@ -90,7 +90,7 @@
 		<item>
 		<title>
 		Phản hồi cho Minimal Busket bởi admin		</title>
-		<link>/?p=1674%2F#comment-11</link>
+		<link>https://orthokvietnam.vn/?p=1674%2F#comment-11</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 01 Nov 2021 08:55:18 +0000</pubDate>
@@ -104,7 +104,7 @@
 		<item>
 		<title>
 		Phản hồi cho Men’s Pollo bởi admin		</title>
-		<link>/?p=1679%2F#comment-10</link>
+		<link>https://orthokvietnam.vn/?p=1679%2F#comment-10</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 01 Nov 2021 08:55:13 +0000</pubDate>
@@ -118,7 +118,7 @@
 		<item>
 		<title>
 		Phản hồi cho Head Cap bởi admin		</title>
-		<link>/?p=1692%2F#comment-9</link>
+		<link>https://orthokvietnam.vn/?p=1692%2F#comment-9</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 01 Nov 2021 08:55:06 +0000</pubDate>
@@ -132,7 +132,7 @@
 		<item>
 		<title>
 		Phản hồi cho Google Sounbox bởi admin		</title>
-		<link>/?p=1678%2F#comment-8</link>
+		<link>https://orthokvietnam.vn/?p=1678%2F#comment-8</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 01 Nov 2021 08:55:01 +0000</pubDate>
@@ -146,7 +146,7 @@
 		<item>
 		<title>
 		Phản hồi cho Electric Water Bottle bởi admin		</title>
-		<link>/?p=1675%2F#comment-7</link>
+		<link>https://orthokvietnam.vn/?p=1675%2F#comment-7</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 01 Nov 2021 08:54:55 +0000</pubDate>
